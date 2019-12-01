@@ -1,0 +1,18 @@
+body{
+	background-color: rgb(120,134,71);
+	float: center;
+}
+h2
+{
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+}
+button
+{
+	
+	border-style: outset;
+	border-color: red;
+	text-align: center;
+}
+
